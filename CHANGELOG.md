@@ -1,3 +1,5 @@
+## [2.1.1](https://github.com/alibabacloud-automation/terraform-alicloud-amqp-ram-cloudmonitor/compare/v2.1.0...v2.1.1) (2025-11-27)
+
 ## 2.2.0 (Unreleased)
 ## 2.1.0 (2024-12-05)
 
