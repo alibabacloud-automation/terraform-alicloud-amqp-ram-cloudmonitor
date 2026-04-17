@@ -1,3 +1,14 @@
+## [3.0.0](https://github.com/alibabacloud-automation/terraform-alicloud-amqp-ram-cloudmonitor/compare/v2.1.1...v3.0.0) (2026-04-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* add provider version constraint for aliyun/alicloud
+
+### Features
+
+* add provider version constraint for aliyun/alicloud ([2ed273c](https://github.com/alibabacloud-automation/terraform-alicloud-amqp-ram-cloudmonitor/commit/2ed273ce5fc2f43dcc38e1aa55c4657a77db8ce8))
+
 ## [2.1.1](https://github.com/alibabacloud-automation/terraform-alicloud-amqp-ram-cloudmonitor/compare/v2.1.0...v2.1.1) (2025-11-27)
 
 ## 2.2.0 (Unreleased)
